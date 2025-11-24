@@ -13,14 +13,14 @@ Job Tracker helps you stay organized throughout your job search by providing:
 
 ## Features
 
-### 📊 Job Tracker
+### Job Tracker
 - **Sheets-style table** with filters, search, and status tracking
 - **CSV import** - Import jobs from Google Sheets or CSV files
 - **Inline editing** - Edit job information directly in the table
 - **Timeline view** - See all application activity in chronological order
 - **Quick prep links** - Jump directly to company-specific prep documents
 
-### 📝 Company Prep Documents
+### Company Prep Documents
 - **Sidebar navigation** - Quick access to all sections during interviews
 - **Inline editing** - Edit any section directly on the page
 - **Structured sections**:
@@ -33,26 +33,26 @@ Job Tracker helps you stay organized throughout your job search by providing:
   - Questions For Them
   - Prep Checklist
 
-### ⭐ STAR Stories Builder
+### STAR Stories Builder
 - **Create and edit** STAR stories with full Situation-Task-Action-Result format
 - **Tagging system** - Organize stories by industry, category, and theme
 - **Grid and list views** - Toggle between viewing modes
 - **Quick copy** - Copy story summaries for easy pasting into prep docs
 - **Attach to jobs** - Link relevant stories to specific company prep documents
 
-### 📈 Analytics Dashboard
+### Analytics Dashboard
 - **Pipeline metrics** - Track applications, responses, interviews, and offers
 - **Visual charts** - Weekly pipeline trends, status breakdown, and conversion rates
 - **Timeline velocity** - See how long each stage takes
 - **Upcoming actions** - Never miss a follow-up
 
-### 🎯 Master Prep Library
+### Master Prep Library
 - **Personal narrative** - Your elevator pitch and background
 - **Question banks** - Common interview questions and your prepared answers
 - **STAR story shelf** - Quick access to all your stories
 - **Reusable content** - Pull content into company-specific prep docs
 
-### 🏠 Home Dashboard
+### Home Dashboard
 - **Quick metrics** - Applications, response rate, active interviews, follow-ups due
 - **Recent applications** - See your latest job applications at a glance
 - **Upcoming actions** - Timeline of tasks and follow-ups
